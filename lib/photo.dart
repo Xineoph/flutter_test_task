@@ -7,5 +7,4 @@ class Photo {
 
 }
 
-// Photo photo = Photo(image: 'image-url hello world', author: "Vassyan666");
-// print(photo.image);
+
